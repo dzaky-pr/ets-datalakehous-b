@@ -1,0 +1,20 @@
+SELECT 
+    dps.id_peserta,
+    dps.nama,
+    dps.nama_ayah,
+    dps.nama_ibu,
+    dps.nama_wali,
+    dps.id_pendidikan_ayah,
+    dps.nama_pendidikan_ayah,
+    dps.id_pendidikan_ibu,
+    dps.nama_pendidikan_ibu,
+    dps.id_pendidikan_wali,
+    dps.nama_pendidikan_wali,
+    dps.nama_penghasilan_ayah,
+    dps.id_penghasilan_ayah,
+    dps.nama_penghasilan_ibu,
+    dps.id_penghasilan_ibu,
+    dps.nama_penghasilan_wali,
+    dps.id_penghasilan_wali
+FROM 
+    dim_peserta dps;
