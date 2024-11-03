@@ -1,0 +1,676 @@
+"nama_prodi","asal_kab_kota","asal_provinsi","periode_tahun","periode_bulan","periode_tanggal","jumlah_pendaftar"
+Fisika,Pandeglang,Banten,2020,6,1,5
+Ilmu Komunikasi,Saumlaki,Maluku,2020,6,1,5
+Kedokteran Umum,Saumlaki,Maluku,2020,6,1,5
+Kimia,Tanjung Balai Karimun,Kepulauan Riau,2020,6,1,5
+Teknik Mesin,Banjarbaru,Kalimantan Selatan,2020,6,1,5
+Ekonomi,Sungailiat,Kepulauan Bangka Belitung,2020,6,1,4
+Ekonomi,Majene,Sulawesi Barat,2020,6,1,4
+Fisika,Poso,Sulawesi Tengah,2020,6,1,4
+Ilmu Komunikasi,Tobelo,Maluku Utara,2020,6,1,4
+Ilmu Komunikasi,Tanjung Balai Karimun,Kepulauan Riau,2020,6,1,4
+Kedokteran Umum,Kota Baru,Jambi,2020,6,1,4
+Kedokteran Umum,Timika,Papua,2020,6,1,4
+Kimia,Tidore,Maluku Utara,2020,6,1,4
+Kimia,Nabire,Papua,2020,6,1,4
+Kimia,Curup,Bengkulu,2020,6,1,4
+Manajemen,Solo,Jawa Tengah,2020,6,1,4
+Manajemen,Ketapang,Kalimantan Barat,2020,6,1,4
+Manajemen,Manna,Bengkulu,2020,6,1,4
+Manajemen,Limboto,Gorontalo,2020,6,1,4
+Teknik Sipil,Jakarta Utara,DKI Jakarta,2020,6,1,4
+Teknik Sipil,Sleman,DI Yogyakarta,2020,6,1,4
+Ekonomi,Curup,Bengkulu,2020,6,1,3
+Ekonomi,Sorong,Papua Barat,2020,6,1,3
+Ekonomi,Tidore,Maluku Utara,2020,6,1,3
+Fisika,Muara Tebo,Jambi,2020,6,1,3
+Fisika,Manna,Bengkulu,2020,6,1,3
+Fisika,Nunukan,Kalimantan Utara,2020,6,1,3
+Fisika,Kotamobagu,Sulawesi Utara,2020,6,1,3
+Ilmu Komunikasi,Sorong,Papua Barat,2020,6,1,3
+Ilmu Komunikasi,Dompu,Nusa Tenggara Barat,2020,6,1,3
+Kedokteran Umum,Sangatta,Kalimantan Timur,2020,6,1,3
+Kedokteran Umum,Dabo Singkep,Kepulauan Riau,2020,6,1,3
+Kedokteran Umum,Tidore,Maluku Utara,2020,6,1,3
+Kedokteran Umum,Batam,Kepulauan Riau,2020,6,1,3
+Kedokteran Umum,Dharmasraya,Sumatera Barat,2020,6,1,3
+Kimia,Ende,Nusa Tenggara Timur,2020,6,1,3
+Kimia,Bangkinang,Riau,2020,6,1,3
+Kimia,Madiun,Jawa Timur,2020,6,1,3
+Kimia,Gianyar,Bali,2020,6,1,3
+Kimia,Banjarbaru,Kalimantan Selatan,2020,6,1,3
+Kimia,Singkawang,Kalimantan Barat,2020,6,1,3
+Kimia,Sungailiat,Kepulauan Bangka Belitung,2020,6,1,3
+Manajemen,Kotamobagu,Sulawesi Utara,2020,6,1,3
+Manajemen,Timika,Papua,2020,6,1,3
+Manajemen,Dompu,Nusa Tenggara Barat,2020,6,1,3
+Manajemen,Lebak,Banten,2020,6,1,3
+Manajemen,Pangkalan Bun,Kalimantan Tengah,2020,6,1,3
+Teknik Elektro,Muntok,Kepulauan Bangka Belitung,2020,6,1,3
+Teknik Elektro,Kuala Kurun,Kalimantan Tengah,2020,6,1,3
+Teknik Elektro,Sungailiat,Kepulauan Bangka Belitung,2020,6,1,3
+Teknik Elektro,Limboto,Gorontalo,2020,6,1,3
+Teknik Elektro,Binjai,Sumatera Utara,2020,6,1,3
+Teknik Elektro,Tobelo,Maluku Utara,2020,6,1,3
+Teknik Elektro,Nunukan,Kalimantan Utara,2020,6,1,3
+Teknik Mesin,Sungailiat,Kepulauan Bangka Belitung,2020,6,1,3
+Teknik Mesin,Ternate,Maluku Utara,2020,6,1,3
+Teknik Mesin,Sambas,Kalimantan Barat,2020,6,1,3
+Teknik Mesin,Rantau,Kalimantan Selatan,2020,6,1,3
+Teknik Sipil,Bangkinang,Riau,2020,6,1,3
+Teknik Sipil,Maros,Sulawesi Selatan,2020,6,1,3
+Ekonomi,Bontang,Kalimantan Timur,2020,6,1,2
+Ekonomi,Muara Bulian,Jambi,2020,6,1,2
+Ekonomi,Muara Tebo,Jambi,2020,6,1,2
+Ekonomi,Lebak,Banten,2020,6,1,2
+Ekonomi,Sungguminasa,Sulawesi Selatan,2020,6,1,2
+Ekonomi,Tomohon,Sulawesi Utara,2020,6,1,2
+Ekonomi,Jember,Jawa Timur,2020,6,1,2
+Ekonomi,Tarakan,Kalimantan Utara,2020,6,1,2
+Ekonomi,Selat Panjang,Riau,2020,6,1,2
+Ekonomi,Tabanan,Bali,2020,6,1,2
+Ekonomi,Padang Sidempuan,Sumatera Utara,2020,6,1,2
+Ekonomi,Praya,Nusa Tenggara Barat,2020,6,1,2
+Ekonomi,Timika,Papua,2020,6,1,2
+Ekonomi,Gianyar,Bali,2020,6,1,2
+Ekonomi,Lubuklinggau,Sumatera Selatan,2020,6,1,2
+Ekonomi,Tanjung Balai Karimun,Kepulauan Riau,2020,6,1,2
+Ekonomi,Marabahan,Kalimantan Selatan,2020,6,1,2
+Ekonomi,Tilamuta,Gorontalo,2020,6,1,2
+Fisika,Marisa,Gorontalo,2020,6,1,2
+Fisika,Kota Baru,Jambi,2020,6,1,2
+Fisika,Wates,DI Yogyakarta,2020,6,1,2
+Fisika,Sekayu,Sumatera Selatan,2020,6,1,2
+Fisika,Klungkung,Bali,2020,6,1,2
+Fisika,Sungailiat,Kepulauan Bangka Belitung,2020,6,1,2
+Fisika,Tidore,Maluku Utara,2020,6,1,2
+Fisika,Donggala,Sulawesi Tengah,2020,6,1,2
+Fisika,Tasikmalaya,Jawa Barat,2020,6,1,2
+Fisika,Sleman,DI Yogyakarta,2020,6,1,2
+Fisika,Magelang,Jawa Tengah,2020,6,1,2
+Fisika,Pagar Alam,Sumatera Selatan,2020,6,1,2
+Fisika,Tarakan,Kalimantan Utara,2020,6,1,2
+Fisika,Tual,Maluku,2020,6,1,2
+Fisika,Balikpapan,Kalimantan Timur,2020,6,1,2
+Fisika,Dabo Singkep,Kepulauan Riau,2020,6,1,2
+Fisika,Kolaka,Sulawesi Tenggara,2020,6,1,2
+Fisika,Bitung,Sulawesi Utara,2020,6,1,2
+Fisika,Cilegon,Banten,2020,6,1,2
+Fisika,Tangerang,Banten,2020,6,1,2
+Fisika,Sambas,Kalimantan Barat,2020,6,1,2
+Fisika,Mempawah,Kalimantan Barat,2020,6,1,2
+Ilmu Komunikasi,Gianyar,Bali,2020,6,1,2
+Ilmu Komunikasi,Bekasi,Jawa Barat,2020,6,1,2
+Ilmu Komunikasi,Timika,Papua,2020,6,1,2
+Ilmu Komunikasi,Maumere,Nusa Tenggara Timur,2020,6,1,2
+Ilmu Komunikasi,Pagar Alam,Sumatera Selatan,2020,6,1,2
+Ilmu Komunikasi,Majene,Sulawesi Barat,2020,6,1,2
+Ilmu Komunikasi,Pematangsiantar,Sumatera Utara,2020,6,1,2
+Ilmu Komunikasi,Mamasa,Sulawesi Barat,2020,6,1,2
+Ilmu Komunikasi,Limboto,Gorontalo,2020,6,1,2
+Ilmu Komunikasi,Jakarta Timur,DKI Jakarta,2020,6,1,2
+Ilmu Komunikasi,Singkawang,Kalimantan Barat,2020,6,1,2
+Ilmu Komunikasi,Poso,Sulawesi Tengah,2020,6,1,2
+Ilmu Komunikasi,Donggala,Sulawesi Tengah,2020,6,1,2
+Ilmu Komunikasi,Pekalongan,Jawa Tengah,2020,6,1,2
+Ilmu Komunikasi,Lebak,Banten,2020,6,1,2
+Ilmu Komunikasi,Jember,Jawa Timur,2020,6,1,2
+Ilmu Komunikasi,Wates,DI Yogyakarta,2020,6,1,2
+Ilmu Komunikasi,Sekayu,Sumatera Selatan,2020,6,1,2
+Ilmu Komunikasi,Singaraja,Bali,2020,6,1,2
+Ilmu Komunikasi,Langsa,Aceh,2020,6,1,2
+Kedokteran Umum,Jakarta Barat,DKI Jakarta,2020,6,1,2
+Kedokteran Umum,Dompu,Nusa Tenggara Barat,2020,6,1,2
+Kedokteran Umum,Maros,Sulawesi Selatan,2020,6,1,2
+Kedokteran Umum,Bekasi,Jawa Barat,2020,6,1,2
+Kedokteran Umum,Depok,Jawa Barat,2020,6,1,2
+Kedokteran Umum,Raha,Sulawesi Tenggara,2020,6,1,2
+Kedokteran Umum,Nabire,Papua,2020,6,1,2
+Kedokteran Umum,Singaraja,Bali,2020,6,1,2
+Kedokteran Umum,Gianyar,Bali,2020,6,1,2
+Kedokteran Umum,Praya,Nusa Tenggara Barat,2020,6,1,2
+Kedokteran Umum,Tobelo,Maluku Utara,2020,6,1,2
+Kedokteran Umum,Kupang,Nusa Tenggara Timur,2020,6,1,2
+Kedokteran Umum,Bantul,DI Yogyakarta,2020,6,1,2
+Kedokteran Umum,Muara Bulian,Jambi,2020,6,1,2
+Kedokteran Umum,Maumere,Nusa Tenggara Timur,2020,6,1,2
+Kedokteran Umum,Bitung,Sulawesi Utara,2020,6,1,2
+Kedokteran Umum,Masohi,Maluku,2020,6,1,2
+Kedokteran Umum,Polewali,Sulawesi Barat,2020,6,1,2
+Kedokteran Umum,Sorong,Papua Barat,2020,6,1,2
+Kedokteran Umum,Sungailiat,Kepulauan Bangka Belitung,2020,6,1,2
+Kedokteran Umum,Tual,Maluku,2020,6,1,2
+Kedokteran Umum,Ende,Nusa Tenggara Timur,2020,6,1,2
+Kedokteran Umum,Poso,Sulawesi Tengah,2020,6,1,2
+Kedokteran Umum,Pangkalan Bun,Kalimantan Tengah,2020,6,1,2
+Kimia,Polewali,Sulawesi Barat,2020,6,1,2
+Kimia,Jakarta Utara,DKI Jakarta,2020,6,1,2
+Kimia,Sangatta,Kalimantan Timur,2020,6,1,2
+Kimia,Kayu Agung,Sumatera Selatan,2020,6,1,2
+Kimia,Kotamobagu,Sulawesi Utara,2020,6,1,2
+Kimia,Solo,Jawa Tengah,2020,6,1,2
+Kimia,Rantau,Kalimantan Selatan,2020,6,1,2
+Kimia,Solok,Sumatera Barat,2020,6,1,2
+Kimia,Timika,Papua,2020,6,1,2
+Kimia,Masohi,Maluku,2020,6,1,2
+Kimia,Tarakan,Kalimantan Utara,2020,6,1,2
+Kimia,Baubau,Sulawesi Tenggara,2020,6,1,2
+Kimia,Limboto,Gorontalo,2020,6,1,2
+Kimia,Saumlaki,Maluku,2020,6,1,2
+Kimia,Cimahi,Jawa Barat,2020,6,1,2
+Manajemen,Bangkinang,Riau,2020,6,1,2
+Manajemen,Masohi,Maluku,2020,6,1,2
+Manajemen,Tomohon,Sulawesi Utara,2020,6,1,2
+Manajemen,Liwa,Lampung,2020,6,1,2
+Manajemen,Padang Panjang,Sumatera Barat,2020,6,1,2
+Manajemen,Bitung,Sulawesi Utara,2020,6,1,2
+Manajemen,Malang,Jawa Timur,2020,6,1,2
+Manajemen,Bintan,Kepulauan Riau,2020,6,1,2
+Manajemen,Marisa,Gorontalo,2020,6,1,2
+Manajemen,Praya,Nusa Tenggara Barat,2020,6,1,2
+Manajemen,Fakfak,Papua Barat,2020,6,1,2
+Manajemen,Balikpapan,Kalimantan Timur,2020,6,1,2
+Manajemen,Subulussalam,Aceh,2020,6,1,2
+Manajemen,Sibolga,Sumatera Utara,2020,6,1,2
+Manajemen,Merauke,Papua,2020,6,1,2
+Manajemen,Cimahi,Jawa Barat,2020,6,1,2
+Manajemen,Sumbawa,Nusa Tenggara Barat,2020,6,1,2
+Manajemen,Magelang,Jawa Tengah,2020,6,1,2
+Manajemen,Parepare,Sulawesi Selatan,2020,6,1,2
+Manajemen,Tangerang,Banten,2020,6,1,2
+Manajemen,Pandeglang,Banten,2020,6,1,2
+Manajemen,Rantau,Kalimantan Selatan,2020,6,1,2
+Manajemen,Maumere,Nusa Tenggara Timur,2020,6,1,2
+Manajemen,Atambua,Nusa Tenggara Timur,2020,6,1,2
+Teknik Elektro,Atambua,Nusa Tenggara Timur,2020,6,1,2
+Teknik Elektro,Muara Tebo,Jambi,2020,6,1,2
+Teknik Elektro,Maros,Sulawesi Selatan,2020,6,1,2
+Teknik Elektro,Ruteng,Nusa Tenggara Timur,2020,6,1,2
+Teknik Elektro,Sibolga,Sumatera Utara,2020,6,1,2
+Teknik Elektro,Praya,Nusa Tenggara Barat,2020,6,1,2
+Teknik Elektro,Madiun,Jawa Timur,2020,6,1,2
+Teknik Elektro,Rantau,Kalimantan Selatan,2020,6,1,2
+Teknik Elektro,Raja Ampat,Papua Barat,2020,6,1,2
+Teknik Elektro,Kotamobagu,Sulawesi Utara,2020,6,1,2
+Teknik Elektro,Subulussalam,Aceh,2020,6,1,2
+Teknik Elektro,Wonosari,DI Yogyakarta,2020,6,1,2
+Teknik Elektro,Bintan,Kepulauan Riau,2020,6,1,2
+Teknik Elektro,Lhokseumawe,Aceh,2020,6,1,2
+Teknik Elektro,Ternate,Maluku Utara,2020,6,1,2
+Teknik Elektro,Pangkalan Bun,Kalimantan Tengah,2020,6,1,2
+Teknik Elektro,Dompu,Nusa Tenggara Barat,2020,6,1,2
+Teknik Elektro,Timika,Papua,2020,6,1,2
+Teknik Elektro,Padang Sidempuan,Sumatera Utara,2020,6,1,2
+Teknik Elektro,Tarakan,Kalimantan Utara,2020,6,1,2
+Teknik Elektro,Lebak,Banten,2020,6,1,2
+Teknik Mesin,Tenggarong,Kalimantan Timur,2020,6,1,2
+Teknik Mesin,Mempawah,Kalimantan Barat,2020,6,1,2
+Teknik Mesin,Bintan,Kepulauan Riau,2020,6,1,2
+Teknik Mesin,Krui,Lampung,2020,6,1,2
+Teknik Mesin,Bontang,Kalimantan Timur,2020,6,1,2
+Teknik Mesin,Maros,Sulawesi Selatan,2020,6,1,2
+Teknik Mesin,Dompu,Nusa Tenggara Barat,2020,6,1,2
+Teknik Mesin,Singkawang,Kalimantan Barat,2020,6,1,2
+Teknik Mesin,Pangkalan Bun,Kalimantan Tengah,2020,6,1,2
+Teknik Mesin,Donggala,Sulawesi Tengah,2020,6,1,2
+Teknik Mesin,Praya,Nusa Tenggara Barat,2020,6,1,2
+Teknik Mesin,Muara Teweh,Kalimantan Tengah,2020,6,1,2
+Teknik Mesin,Bantul,DI Yogyakarta,2020,6,1,2
+Teknik Mesin,Singaraja,Bali,2020,6,1,2
+Teknik Sipil,Rantau,Kalimantan Selatan,2020,6,1,2
+Teknik Sipil,Bima,Nusa Tenggara Barat,2020,6,1,2
+Teknik Sipil,Arga Makmur,Bengkulu,2020,6,1,2
+Teknik Sipil,Kuala Kurun,Kalimantan Tengah,2020,6,1,2
+Teknik Sipil,Bitung,Sulawesi Utara,2020,6,1,2
+Teknik Sipil,Nunukan,Kalimantan Utara,2020,6,1,2
+Teknik Sipil,Bagansiapiapi,Riau,2020,6,1,2
+Teknik Sipil,Tidore,Maluku Utara,2020,6,1,2
+Teknik Sipil,Ende,Nusa Tenggara Timur,2020,6,1,2
+Teknik Sipil,Curup,Bengkulu,2020,6,1,2
+Teknik Sipil,Wonosari,DI Yogyakarta,2020,6,1,2
+Teknik Sipil,Dompu,Nusa Tenggara Barat,2020,6,1,2
+Teknik Sipil,Maumere,Nusa Tenggara Timur,2020,6,1,2
+Teknik Sipil,Tomohon,Sulawesi Utara,2020,6,1,2
+Teknik Sipil,Lubuklinggau,Sumatera Selatan,2020,6,1,2
+Teknik Sipil,Kota Baru,Jambi,2020,6,1,2
+Teknik Sipil,Tabanan,Bali,2020,6,1,2
+Teknik Sipil,Banda Aceh,Aceh,2020,6,1,2
+Teknik Sipil,Singkawang,Kalimantan Barat,2020,6,1,2
+Teknik Sipil,Muara Bulian,Jambi,2020,6,1,2
+Teknik Sipil,Tolitoli,Sulawesi Tengah,2020,6,1,2
+Ekonomi,Maros,Sulawesi Selatan,2020,6,1,1
+Ekonomi,Kayu Agung,Sumatera Selatan,2020,6,1,1
+Ekonomi,Kotamobagu,Sulawesi Utara,2020,6,1,1
+Ekonomi,Sukabumi,Jawa Barat,2020,6,1,1
+Ekonomi,Yogyakarta,DI Yogyakarta,2020,6,1,1
+Ekonomi,Nunukan,Kalimantan Utara,2020,6,1,1
+Ekonomi,Wonosari,DI Yogyakarta,2020,6,1,1
+Ekonomi,Merauke,Papua,2020,6,1,1
+Ekonomi,Sangatta,Kalimantan Timur,2020,6,1,1
+Ekonomi,Poso,Sulawesi Tengah,2020,6,1,1
+Ekonomi,Blitar,Jawa Timur,2020,6,1,1
+Ekonomi,Cirebon,Jawa Barat,2020,6,1,1
+Ekonomi,Banjarbaru,Kalimantan Selatan,2020,6,1,1
+Ekonomi,Dabo Singkep,Kepulauan Riau,2020,6,1,1
+Ekonomi,Raja Ampat,Papua Barat,2020,6,1,1
+Ekonomi,Fakfak,Papua Barat,2020,6,1,1
+Ekonomi,Pagar Alam,Sumatera Selatan,2020,6,1,1
+Ekonomi,Malang,Jawa Timur,2020,6,1,1
+Ekonomi,Tangerang,Banten,2020,6,1,1
+Ekonomi,Dompu,Nusa Tenggara Barat,2020,6,1,1
+Ekonomi,Balikpapan,Kalimantan Timur,2020,6,1,1
+Ekonomi,Singkawang,Kalimantan Barat,2020,6,1,1
+Ekonomi,Parepare,Sulawesi Selatan,2020,6,1,1
+Ekonomi,Marisa,Gorontalo,2020,6,1,1
+Ekonomi,Sawahlunto,Sumatera Barat,2020,6,1,1
+Ekonomi,Singaraja,Bali,2020,6,1,1
+Ekonomi,Krui,Lampung,2020,6,1,1
+Ekonomi,Maumere,Nusa Tenggara Timur,2020,6,1,1
+Ekonomi,Solo,Jawa Tengah,2020,6,1,1
+Ekonomi,Bogor,Jawa Barat,2020,6,1,1
+Ekonomi,Banda Aceh,Aceh,2020,6,1,1
+Ekonomi,Bagansiapiapi,Riau,2020,6,1,1
+Ekonomi,Polewali,Sulawesi Barat,2020,6,1,1
+Ekonomi,Batam,Kepulauan Riau,2020,6,1,1
+Ekonomi,Takengon,Aceh,2020,6,1,1
+Ekonomi,Ketapang,Kalimantan Barat,2020,6,1,1
+Ekonomi,Klungkung,Bali,2020,6,1,1
+Ekonomi,Sekayu,Sumatera Selatan,2020,6,1,1
+Ekonomi,Bitung,Sulawesi Utara,2020,6,1,1
+Ekonomi,Binjai,Sumatera Utara,2020,6,1,1
+Ekonomi,Limboto,Gorontalo,2020,6,1,1
+Ekonomi,Sumbawa,Nusa Tenggara Barat,2020,6,1,1
+Ekonomi,Raha,Sulawesi Tenggara,2020,6,1,1
+Ekonomi,Pontianak,Kalimantan Barat,2020,6,1,1
+Ekonomi,Kolaka,Sulawesi Tenggara,2020,6,1,1
+Ekonomi,Palopo,Sulawesi Selatan,2020,6,1,1
+Ekonomi,Bangko,Jambi,2020,6,1,1
+Ekonomi,Sleman,DI Yogyakarta,2020,6,1,1
+Ekonomi,Liwa,Lampung,2020,6,1,1
+Ekonomi,Donggala,Sulawesi Tengah,2020,6,1,1
+Ekonomi,Mempawah,Kalimantan Barat,2020,6,1,1
+Ekonomi,Padang Panjang,Sumatera Barat,2020,6,1,1
+Ekonomi,Bukittinggi,Sumatera Barat,2020,6,1,1
+Ekonomi,Manna,Bengkulu,2020,6,1,1
+Ekonomi,Baubau,Sulawesi Tenggara,2020,6,1,1
+Ekonomi,Payakumbuh,Sumatera Barat,2020,6,1,1
+Ekonomi,Atambua,Nusa Tenggara Timur,2020,6,1,1
+Ekonomi,Pangkalan Bun,Kalimantan Tengah,2020,6,1,1
+Ekonomi,Jakarta Selatan,DKI Jakarta,2020,6,1,1
+Fisika,Limboto,Gorontalo,2020,6,1,1
+Fisika,Bekasi,Jawa Barat,2020,6,1,1
+Fisika,Sorong,Papua Barat,2020,6,1,1
+Fisika,Tomohon,Sulawesi Utara,2020,6,1,1
+Fisika,Pontianak,Kalimantan Barat,2020,6,1,1
+Fisika,Cirebon,Jawa Barat,2020,6,1,1
+Fisika,Tabanan,Bali,2020,6,1,1
+Fisika,Singaraja,Bali,2020,6,1,1
+Fisika,Praya,Nusa Tenggara Barat,2020,6,1,1
+Fisika,Koba,Kepulauan Bangka Belitung,2020,6,1,1
+Fisika,Kuala Kurun,Kalimantan Tengah,2020,6,1,1
+Fisika,Masohi,Maluku,2020,6,1,1
+Fisika,Ende,Nusa Tenggara Timur,2020,6,1,1
+Fisika,Langsa,Aceh,2020,6,1,1
+Fisika,Kaur,Bengkulu,2020,6,1,1
+Fisika,Saumlaki,Maluku,2020,6,1,1
+Fisika,Solo,Jawa Tengah,2020,6,1,1
+Fisika,Banggai,Sulawesi Tengah,2020,6,1,1
+Fisika,Subulussalam,Aceh,2020,6,1,1
+Fisika,Krui,Lampung,2020,6,1,1
+Fisika,Banjarbaru,Kalimantan Selatan,2020,6,1,1
+Fisika,Sangatta,Kalimantan Timur,2020,6,1,1
+Fisika,Nabire,Papua,2020,6,1,1
+Fisika,Muara Sabak,Jambi,2020,6,1,1
+Fisika,Rantau,Kalimantan Selatan,2020,6,1,1
+Fisika,Palopo,Sulawesi Selatan,2020,6,1,1
+Fisika,Muara Bulian,Jambi,2020,6,1,1
+Fisika,Padang Panjang,Sumatera Barat,2020,6,1,1
+Fisika,Majene,Sulawesi Barat,2020,6,1,1
+Fisika,Bangkinang,Riau,2020,6,1,1
+Fisika,Tilamuta,Gorontalo,2020,6,1,1
+Fisika,Prabumulih,Sumatera Selatan,2020,6,1,1
+Fisika,Tenggarong,Kalimantan Timur,2020,6,1,1
+Fisika,Sawahlunto,Sumatera Barat,2020,6,1,1
+Fisika,Padang Sidempuan,Sumatera Utara,2020,6,1,1
+Fisika,Depok,Jawa Barat,2020,6,1,1
+Fisika,Kandangan,Kalimantan Selatan,2020,6,1,1
+Fisika,Metro,Lampung,2020,6,1,1
+Fisika,Banda Aceh,Aceh,2020,6,1,1
+Fisika,Medan,Sumatera Utara,2020,6,1,1
+Fisika,Tanjung Balai Karimun,Kepulauan Riau,2020,6,1,1
+Fisika,Bireuen,Aceh,2020,6,1,1
+Fisika,Parepare,Sulawesi Selatan,2020,6,1,1
+Fisika,Bintan,Kepulauan Riau,2020,6,1,1
+Fisika,Toboali,Kepulauan Bangka Belitung,2020,6,1,1
+Ilmu Komunikasi,Sambas,Kalimantan Barat,2020,6,1,1
+Ilmu Komunikasi,Kandangan,Kalimantan Selatan,2020,6,1,1
+Ilmu Komunikasi,Bukittinggi,Sumatera Barat,2020,6,1,1
+Ilmu Komunikasi,Kotamobagu,Sulawesi Utara,2020,6,1,1
+Ilmu Komunikasi,Magelang,Jawa Tengah,2020,6,1,1
+Ilmu Komunikasi,Lubuklinggau,Sumatera Selatan,2020,6,1,1
+Ilmu Komunikasi,Bangko,Jambi,2020,6,1,1
+Ilmu Komunikasi,Kendari,Sulawesi Tenggara,2020,6,1,1
+Ilmu Komunikasi,Raja Ampat,Papua Barat,2020,6,1,1
+Ilmu Komunikasi,Tolitoli,Sulawesi Tengah,2020,6,1,1
+Ilmu Komunikasi,Semarang,Jawa Tengah,2020,6,1,1
+Ilmu Komunikasi,Samarinda,Kalimantan Timur,2020,6,1,1
+Ilmu Komunikasi,Maros,Sulawesi Selatan,2020,6,1,1
+Ilmu Komunikasi,Muara Sabak,Jambi,2020,6,1,1
+Ilmu Komunikasi,Depok,Jawa Barat,2020,6,1,1
+Ilmu Komunikasi,Bintan,Kepulauan Riau,2020,6,1,1
+Ilmu Komunikasi,Ternate,Maluku Utara,2020,6,1,1
+Ilmu Komunikasi,Raha,Sulawesi Tenggara,2020,6,1,1
+Ilmu Komunikasi,Polewali,Sulawesi Barat,2020,6,1,1
+Ilmu Komunikasi,Balikpapan,Kalimantan Timur,2020,6,1,1
+Ilmu Komunikasi,Curup,Bengkulu,2020,6,1,1
+Ilmu Komunikasi,Koba,Kepulauan Bangka Belitung,2020,6,1,1
+Ilmu Komunikasi,Merauke,Papua,2020,6,1,1
+Ilmu Komunikasi,Kuala Kurun,Kalimantan Tengah,2020,6,1,1
+Ilmu Komunikasi,Liwa,Lampung,2020,6,1,1
+Ilmu Komunikasi,Gunung Sitoli,Sumatera Utara,2020,6,1,1
+Ilmu Komunikasi,Prabumulih,Sumatera Selatan,2020,6,1,1
+Ilmu Komunikasi,Praya,Nusa Tenggara Barat,2020,6,1,1
+Ilmu Komunikasi,Kota Baru,Jambi,2020,6,1,1
+Ilmu Komunikasi,Jakarta Utara,DKI Jakarta,2020,6,1,1
+Ilmu Komunikasi,Kaur,Bengkulu,2020,6,1,1
+Ilmu Komunikasi,Tual,Maluku,2020,6,1,1
+Ilmu Komunikasi,Sleman,DI Yogyakarta,2020,6,1,1
+Ilmu Komunikasi,Tabanan,Bali,2020,6,1,1
+Ilmu Komunikasi,Padang Panjang,Sumatera Barat,2020,6,1,1
+Ilmu Komunikasi,Tomohon,Sulawesi Utara,2020,6,1,1
+Ilmu Komunikasi,Bangkinang,Riau,2020,6,1,1
+Ilmu Komunikasi,Nunukan,Kalimantan Utara,2020,6,1,1
+Ilmu Komunikasi,Cirebon,Jawa Barat,2020,6,1,1
+Ilmu Komunikasi,Sampit,Kalimantan Tengah,2020,6,1,1
+Ilmu Komunikasi,Muara Bulian,Jambi,2020,6,1,1
+Ilmu Komunikasi,Baubau,Sulawesi Tenggara,2020,6,1,1
+Ilmu Komunikasi,Sumbawa,Nusa Tenggara Barat,2020,6,1,1
+Ilmu Komunikasi,Malinau,Kalimantan Utara,2020,6,1,1
+Ilmu Komunikasi,Tebing Tinggi,Sumatera Utara,2020,6,1,1
+Ilmu Komunikasi,Jakarta Selatan,DKI Jakarta,2020,6,1,1
+Ilmu Komunikasi,Marabahan,Kalimantan Selatan,2020,6,1,1
+Ilmu Komunikasi,Kolaka,Sulawesi Tenggara,2020,6,1,1
+Ilmu Komunikasi,Batu,Jawa Timur,2020,6,1,1
+Ilmu Komunikasi,Sungailiat,Kepulauan Bangka Belitung,2020,6,1,1
+Ilmu Komunikasi,Ketapang,Kalimantan Barat,2020,6,1,1
+Ilmu Komunikasi,Bontang,Kalimantan Timur,2020,6,1,1
+Ilmu Komunikasi,Binjai,Sumatera Utara,2020,6,1,1
+Kedokteran Umum,Banggai,Sulawesi Tengah,2020,6,1,1
+Kedokteran Umum,Bogor,Jawa Barat,2020,6,1,1
+Kedokteran Umum,Metro,Lampung,2020,6,1,1
+Kedokteran Umum,Majene,Sulawesi Barat,2020,6,1,1
+Kedokteran Umum,Sleman,DI Yogyakarta,2020,6,1,1
+Kedokteran Umum,Klungkung,Bali,2020,6,1,1
+Kedokteran Umum,Padang Panjang,Sumatera Barat,2020,6,1,1
+Kedokteran Umum,Kotamobagu,Sulawesi Utara,2020,6,1,1
+Kedokteran Umum,Pagar Alam,Sumatera Selatan,2020,6,1,1
+Kedokteran Umum,Tilamuta,Gorontalo,2020,6,1,1
+Kedokteran Umum,Jakarta Pusat,DKI Jakarta,2020,6,1,1
+Kedokteran Umum,Jakarta Selatan,DKI Jakarta,2020,6,1,1
+Kedokteran Umum,Palopo,Sulawesi Selatan,2020,6,1,1
+Kedokteran Umum,Binjai,Sumatera Utara,2020,6,1,1
+Kedokteran Umum,Donggala,Sulawesi Tengah,2020,6,1,1
+Kedokteran Umum,Kediri,Jawa Timur,2020,6,1,1
+Kedokteran Umum,Sabang,Aceh,2020,6,1,1
+Kedokteran Umum,Subulussalam,Aceh,2020,6,1,1
+Kedokteran Umum,Sumbawa,Nusa Tenggara Barat,2020,6,1,1
+Kedokteran Umum,Sambas,Kalimantan Barat,2020,6,1,1
+Kedokteran Umum,Muntok,Kepulauan Bangka Belitung,2020,6,1,1
+Kedokteran Umum,Batu,Jawa Timur,2020,6,1,1
+Kedokteran Umum,Cimahi,Jawa Barat,2020,6,1,1
+Kedokteran Umum,Tanjung Balai Karimun,Kepulauan Riau,2020,6,1,1
+Kedokteran Umum,Banjarmasin,Kalimantan Selatan,2020,6,1,1
+Kedokteran Umum,Baubau,Sulawesi Tenggara,2020,6,1,1
+Kedokteran Umum,Bireuen,Aceh,2020,6,1,1
+Kedokteran Umum,Kaur,Bengkulu,2020,6,1,1
+Kedokteran Umum,Ketapang,Kalimantan Barat,2020,6,1,1
+Kedokteran Umum,Fakfak,Papua Barat,2020,6,1,1
+Kedokteran Umum,Tasikmalaya,Jawa Barat,2020,6,1,1
+Kedokteran Umum,Limboto,Gorontalo,2020,6,1,1
+Kedokteran Umum,Merauke,Papua,2020,6,1,1
+Kedokteran Umum,Krui,Lampung,2020,6,1,1
+Kedokteran Umum,Muara Tebo,Jambi,2020,6,1,1
+Kedokteran Umum,Lhokseumawe,Aceh,2020,6,1,1
+Kedokteran Umum,Sampit,Kalimantan Tengah,2020,6,1,1
+Kedokteran Umum,Atambua,Nusa Tenggara Timur,2020,6,1,1
+Kedokteran Umum,Sofifi,Maluku Utara,2020,6,1,1
+Kedokteran Umum,Mempawah,Kalimantan Barat,2020,6,1,1
+Kedokteran Umum,Kolaka,Sulawesi Tenggara,2020,6,1,1
+Kedokteran Umum,Prabumulih,Sumatera Selatan,2020,6,1,1
+Kedokteran Umum,Koba,Kepulauan Bangka Belitung,2020,6,1,1
+Kedokteran Umum,Gunung Sitoli,Sumatera Utara,2020,6,1,1
+Kedokteran Umum,Siak Sri Indrapura,Riau,2020,6,1,1
+Kedokteran Umum,Pandeglang,Banten,2020,6,1,1
+Kedokteran Umum,Nunukan,Kalimantan Utara,2020,6,1,1
+Kedokteran Umum,Curup,Bengkulu,2020,6,1,1
+Kimia,Siak Sri Indrapura,Riau,2020,6,1,1
+Kimia,Koba,Kepulauan Bangka Belitung,2020,6,1,1
+Kimia,Sleman,DI Yogyakarta,2020,6,1,1
+Kimia,Tangerang,Banten,2020,6,1,1
+Kimia,Depok,Jawa Barat,2020,6,1,1
+Kimia,Gunung Sitoli,Sumatera Utara,2020,6,1,1
+Kimia,Liwa,Lampung,2020,6,1,1
+Kimia,Dharmasraya,Sumatera Barat,2020,6,1,1
+Kimia,Malang,Jawa Timur,2020,6,1,1
+Kimia,Tilamuta,Gorontalo,2020,6,1,1
+Kimia,Maros,Sulawesi Selatan,2020,6,1,1
+Kimia,Jayapura,Papua,2020,6,1,1
+Kimia,Selat Panjang,Riau,2020,6,1,1
+Kimia,Batam,Kepulauan Riau,2020,6,1,1
+Kimia,Jakarta Timur,DKI Jakarta,2020,6,1,1
+Kimia,Muntok,Kepulauan Bangka Belitung,2020,6,1,1
+Kimia,Malinau,Kalimantan Utara,2020,6,1,1
+Kimia,Nunukan,Kalimantan Utara,2020,6,1,1
+Kimia,Maumere,Nusa Tenggara Timur,2020,6,1,1
+Kimia,Bima,Nusa Tenggara Barat,2020,6,1,1
+Kimia,Pagar Alam,Sumatera Selatan,2020,6,1,1
+Kimia,Tomohon,Sulawesi Utara,2020,6,1,1
+Kimia,Merauke,Papua,2020,6,1,1
+Kimia,Banggai,Sulawesi Tengah,2020,6,1,1
+Kimia,Lubuklinggau,Sumatera Selatan,2020,6,1,1
+Kimia,Majene,Sulawesi Barat,2020,6,1,1
+Kimia,Palopo,Sulawesi Selatan,2020,6,1,1
+Kimia,Bagansiapiapi,Riau,2020,6,1,1
+Kimia,Pangkalan Bun,Kalimantan Tengah,2020,6,1,1
+Kimia,Padang Sidempuan,Sumatera Utara,2020,6,1,1
+Kimia,Toboali,Kepulauan Bangka Belitung,2020,6,1,1
+Kimia,Kuala Kurun,Kalimantan Tengah,2020,6,1,1
+Kimia,Sumbawa,Nusa Tenggara Barat,2020,6,1,1
+Kimia,Donggala,Sulawesi Tengah,2020,6,1,1
+Kimia,Poso,Sulawesi Tengah,2020,6,1,1
+Kimia,Mempawah,Kalimantan Barat,2020,6,1,1
+Kimia,Tual,Maluku,2020,6,1,1
+Kimia,Ambon,Maluku,2020,6,1,1
+Kimia,Mojokerto,Jawa Timur,2020,6,1,1
+Kimia,Dabo Singkep,Kepulauan Riau,2020,6,1,1
+Kimia,Raja Ampat,Papua Barat,2020,6,1,1
+Kimia,Bitung,Sulawesi Utara,2020,6,1,1
+Kimia,Tabanan,Bali,2020,6,1,1
+Kimia,Pekalongan,Jawa Tengah,2020,6,1,1
+Manajemen,Gianyar,Bali,2020,6,1,1
+Manajemen,Kayu Agung,Sumatera Selatan,2020,6,1,1
+Manajemen,Banjarbaru,Kalimantan Selatan,2020,6,1,1
+Manajemen,Samarinda,Kalimantan Timur,2020,6,1,1
+Manajemen,Sorong,Papua Barat,2020,6,1,1
+Manajemen,Bogor,Jawa Barat,2020,6,1,1
+Manajemen,Muara Teweh,Kalimantan Tengah,2020,6,1,1
+Manajemen,Muara Sabak,Jambi,2020,6,1,1
+Manajemen,Langsa,Aceh,2020,6,1,1
+Manajemen,Binjai,Sumatera Utara,2020,6,1,1
+Manajemen,Depok,Jawa Barat,2020,6,1,1
+Manajemen,Kupang,Nusa Tenggara Timur,2020,6,1,1
+Manajemen,Blitar,Jawa Timur,2020,6,1,1
+Manajemen,Jakarta Pusat,DKI Jakarta,2020,6,1,1
+Manajemen,Sleman,DI Yogyakarta,2020,6,1,1
+Manajemen,Jember,Jawa Timur,2020,6,1,1
+Manajemen,Majene,Sulawesi Barat,2020,6,1,1
+Manajemen,Bukittinggi,Sumatera Barat,2020,6,1,1
+Manajemen,Tanjung Balai Karimun,Kepulauan Riau,2020,6,1,1
+Manajemen,Kuala Kurun,Kalimantan Tengah,2020,6,1,1
+Manajemen,Mamasa,Sulawesi Barat,2020,6,1,1
+Manajemen,Siak Sri Indrapura,Riau,2020,6,1,1
+Manajemen,Singkawang,Kalimantan Barat,2020,6,1,1
+Manajemen,Malinau,Kalimantan Utara,2020,6,1,1
+Manajemen,Sambas,Kalimantan Barat,2020,6,1,1
+Manajemen,Prabumulih,Sumatera Selatan,2020,6,1,1
+Manajemen,Marabahan,Kalimantan Selatan,2020,6,1,1
+Manajemen,Tobelo,Maluku Utara,2020,6,1,1
+Manajemen,Bekasi,Jawa Barat,2020,6,1,1
+Manajemen,Dabo Singkep,Kepulauan Riau,2020,6,1,1
+Manajemen,Tasikmalaya,Jawa Barat,2020,6,1,1
+Manajemen,Semarang,Jawa Tengah,2020,6,1,1
+Manajemen,Sungguminasa,Sulawesi Selatan,2020,6,1,1
+Manajemen,Lhokseumawe,Aceh,2020,6,1,1
+Manajemen,Tenggarong,Kalimantan Timur,2020,6,1,1
+Manajemen,Ternate,Maluku Utara,2020,6,1,1
+Manajemen,Sampit,Kalimantan Tengah,2020,6,1,1
+Manajemen,Kediri,Jawa Timur,2020,6,1,1
+Manajemen,Mempawah,Kalimantan Barat,2020,6,1,1
+Manajemen,Jakarta Timur,DKI Jakarta,2020,6,1,1
+Manajemen,Krui,Lampung,2020,6,1,1
+Manajemen,Sofifi,Maluku Utara,2020,6,1,1
+Manajemen,Muara Bulian,Jambi,2020,6,1,1
+Manajemen,Bontang,Kalimantan Timur,2020,6,1,1
+Manajemen,Maros,Sulawesi Selatan,2020,6,1,1
+Teknik Elektro,Maumere,Nusa Tenggara Timur,2020,6,1,1
+Teknik Elektro,Cirebon,Jawa Barat,2020,6,1,1
+Teknik Elektro,Bangko,Jambi,2020,6,1,1
+Teknik Elektro,Tanjung Balai Karimun,Kepulauan Riau,2020,6,1,1
+Teknik Elektro,Sawahlunto,Sumatera Barat,2020,6,1,1
+Teknik Elektro,Gianyar,Bali,2020,6,1,1
+Teknik Elektro,Fakfak,Papua Barat,2020,6,1,1
+Teknik Elektro,Padang Panjang,Sumatera Barat,2020,6,1,1
+Teknik Elektro,Blitar,Jawa Timur,2020,6,1,1
+Teknik Elektro,Kota Agung,Lampung,2020,6,1,1
+Teknik Elektro,Baubau,Sulawesi Tenggara,2020,6,1,1
+Teknik Elektro,Lubuklinggau,Sumatera Selatan,2020,6,1,1
+Teknik Elektro,Muara Bulian,Jambi,2020,6,1,1
+Teknik Elektro,Curup,Bengkulu,2020,6,1,1
+Teknik Elektro,Saumlaki,Maluku,2020,6,1,1
+Teknik Elektro,Masohi,Maluku,2020,6,1,1
+Teknik Elektro,Tomohon,Sulawesi Utara,2020,6,1,1
+Teknik Elektro,Bontang,Kalimantan Timur,2020,6,1,1
+Teknik Elektro,Pekalongan,Jawa Tengah,2020,6,1,1
+Teknik Elektro,Palopo,Sulawesi Selatan,2020,6,1,1
+Teknik Elektro,Tilamuta,Gorontalo,2020,6,1,1
+Teknik Elektro,Balikpapan,Kalimantan Timur,2020,6,1,1
+Teknik Elektro,Tenggarong,Kalimantan Timur,2020,6,1,1
+Teknik Elektro,Arga Makmur,Bengkulu,2020,6,1,1
+Teknik Elektro,Singaraja,Bali,2020,6,1,1
+Teknik Elektro,Selat Panjang,Riau,2020,6,1,1
+Teknik Elektro,Jakarta Timur,DKI Jakarta,2020,6,1,1
+Teknik Elektro,Tolitoli,Sulawesi Tengah,2020,6,1,1
+Teknik Elektro,Koba,Kepulauan Bangka Belitung,2020,6,1,1
+Teknik Elektro,Mempawah,Kalimantan Barat,2020,6,1,1
+Teknik Elektro,Tegal,Jawa Tengah,2020,6,1,1
+Teknik Elektro,Depok,Jawa Barat,2020,6,1,1
+Teknik Elektro,Bima,Nusa Tenggara Barat,2020,6,1,1
+Teknik Elektro,Kayu Agung,Sumatera Selatan,2020,6,1,1
+Teknik Elektro,Toboali,Kepulauan Bangka Belitung,2020,6,1,1
+Teknik Elektro,Krui,Lampung,2020,6,1,1
+Teknik Elektro,Majene,Sulawesi Barat,2020,6,1,1
+Teknik Elektro,Jayapura,Papua,2020,6,1,1
+Teknik Elektro,Dharmasraya,Sumatera Barat,2020,6,1,1
+Teknik Elektro,Marabahan,Kalimantan Selatan,2020,6,1,1
+Teknik Elektro,Poso,Sulawesi Tengah,2020,6,1,1
+Teknik Elektro,Klungkung,Bali,2020,6,1,1
+Teknik Elektro,Sleman,DI Yogyakarta,2020,6,1,1
+Teknik Elektro,Bitung,Sulawesi Utara,2020,6,1,1
+Teknik Elektro,Sorong,Papua Barat,2020,6,1,1
+Teknik Elektro,Kandangan,Kalimantan Selatan,2020,6,1,1
+Teknik Elektro,Marisa,Gorontalo,2020,6,1,1
+Teknik Elektro,Langsa,Aceh,2020,6,1,1
+Teknik Elektro,Singkawang,Kalimantan Barat,2020,6,1,1
+Teknik Mesin,Jakarta Timur,DKI Jakarta,2020,6,1,1
+Teknik Mesin,Tanjung Balai Karimun,Kepulauan Riau,2020,6,1,1
+Teknik Mesin,Tasikmalaya,Jawa Barat,2020,6,1,1
+Teknik Mesin,Makassar,Sulawesi Selatan,2020,6,1,1
+Teknik Mesin,Wonosari,DI Yogyakarta,2020,6,1,1
+Teknik Mesin,Gunung Sitoli,Sumatera Utara,2020,6,1,1
+Teknik Mesin,Bireuen,Aceh,2020,6,1,1
+Teknik Mesin,Sabang,Aceh,2020,6,1,1
+Teknik Mesin,Tabanan,Bali,2020,6,1,1
+Teknik Mesin,Baubau,Sulawesi Tenggara,2020,6,1,1
+Teknik Mesin,Tomohon,Sulawesi Utara,2020,6,1,1
+Teknik Mesin,Mamuju,Sulawesi Barat,2020,6,1,1
+Teknik Mesin,Sorong,Papua Barat,2020,6,1,1
+Teknik Mesin,Tobelo,Maluku Utara,2020,6,1,1
+Teknik Mesin,Sangatta,Kalimantan Timur,2020,6,1,1
+Teknik Mesin,Batu,Jawa Timur,2020,6,1,1
+Teknik Mesin,Kayu Agung,Sumatera Selatan,2020,6,1,1
+Teknik Mesin,Poso,Sulawesi Tengah,2020,6,1,1
+Teknik Mesin,Kuala Kurun,Kalimantan Tengah,2020,6,1,1
+Teknik Mesin,Tual,Maluku,2020,6,1,1
+Teknik Mesin,Tegal,Jawa Tengah,2020,6,1,1
+Teknik Mesin,Ende,Nusa Tenggara Timur,2020,6,1,1
+Teknik Mesin,Prabumulih,Sumatera Selatan,2020,6,1,1
+Teknik Mesin,Tarakan,Kalimantan Utara,2020,6,1,1
+Teknik Mesin,Madiun,Jawa Timur,2020,6,1,1
+Teknik Mesin,Bagansiapiapi,Riau,2020,6,1,1
+Teknik Mesin,Kolaka,Sulawesi Tenggara,2020,6,1,1
+Teknik Mesin,Muara Sabak,Jambi,2020,6,1,1
+Teknik Mesin,Klungkung,Bali,2020,6,1,1
+Teknik Mesin,Parepare,Sulawesi Selatan,2020,6,1,1
+Teknik Mesin,Timika,Papua,2020,6,1,1
+Teknik Mesin,Dharmasraya,Sumatera Barat,2020,6,1,1
+Teknik Mesin,Lebak,Banten,2020,6,1,1
+Teknik Mesin,Limboto,Gorontalo,2020,6,1,1
+Teknik Mesin,Manna,Bengkulu,2020,6,1,1
+Teknik Mesin,Nabire,Papua,2020,6,1,1
+Teknik Mesin,Bima,Nusa Tenggara Barat,2020,6,1,1
+Teknik Mesin,Sleman,DI Yogyakarta,2020,6,1,1
+Teknik Mesin,Dabo Singkep,Kepulauan Riau,2020,6,1,1
+Teknik Mesin,Jakarta Utara,DKI Jakarta,2020,6,1,1
+Teknik Mesin,Bangko,Jambi,2020,6,1,1
+Teknik Mesin,Tilamuta,Gorontalo,2020,6,1,1
+Teknik Mesin,Lubuklinggau,Sumatera Selatan,2020,6,1,1
+Teknik Mesin,Kediri,Jawa Timur,2020,6,1,1
+Teknik Mesin,Selat Panjang,Riau,2020,6,1,1
+Teknik Mesin,Langsa,Aceh,2020,6,1,1
+Teknik Mesin,Balikpapan,Kalimantan Timur,2020,6,1,1
+Teknik Mesin,Padang Panjang,Sumatera Barat,2020,6,1,1
+Teknik Sipil,Bireuen,Aceh,2020,6,1,1
+Teknik Sipil,Singaraja,Bali,2020,6,1,1
+Teknik Sipil,Wates,DI Yogyakarta,2020,6,1,1
+Teknik Sipil,Mamuju,Sulawesi Barat,2020,6,1,1
+Teknik Sipil,Muntok,Kepulauan Bangka Belitung,2020,6,1,1
+Teknik Sipil,Batam,Kepulauan Riau,2020,6,1,1
+Teknik Sipil,Donggala,Sulawesi Tengah,2020,6,1,1
+Teknik Sipil,Pandeglang,Banten,2020,6,1,1
+Teknik Sipil,Bekasi,Jawa Barat,2020,6,1,1
+Teknik Sipil,Mamasa,Sulawesi Barat,2020,6,1,1
+Teknik Sipil,Bontang,Kalimantan Timur,2020,6,1,1
+Teknik Sipil,Dabo Singkep,Kepulauan Riau,2020,6,1,1
+Teknik Sipil,Praya,Nusa Tenggara Barat,2020,6,1,1
+Teknik Sipil,Tarakan,Kalimantan Utara,2020,6,1,1
+Teknik Sipil,Tebing Tinggi,Sumatera Utara,2020,6,1,1
+Teknik Sipil,Dumai,Riau,2020,6,1,1
+Teknik Sipil,Sampit,Kalimantan Tengah,2020,6,1,1
+Teknik Sipil,Bangko,Jambi,2020,6,1,1
+Teknik Sipil,Limboto,Gorontalo,2020,6,1,1
+Teknik Sipil,Nabire,Papua,2020,6,1,1
+Teknik Sipil,Jember,Jawa Timur,2020,6,1,1
+Teknik Sipil,Muara Sabak,Jambi,2020,6,1,1
+Teknik Sipil,Kandangan,Kalimantan Selatan,2020,6,1,1
+Teknik Sipil,Sumbawa,Nusa Tenggara Barat,2020,6,1,1
+Teknik Sipil,Merauke,Papua,2020,6,1,1
+Teknik Sipil,Sorong,Papua Barat,2020,6,1,1
+Teknik Sipil,Krui,Lampung,2020,6,1,1
+Teknik Sipil,Raha,Sulawesi Tenggara,2020,6,1,1
+Teknik Sipil,Marisa,Gorontalo,2020,6,1,1
+Teknik Sipil,Cirebon,Jawa Barat,2020,6,1,1
+Teknik Sipil,Marabahan,Kalimantan Selatan,2020,6,1,1
+Teknik Sipil,Pangkalan Bun,Kalimantan Tengah,2020,6,1,1
+Teknik Sipil,Magelang,Jawa Tengah,2020,6,1,1
+Teknik Sipil,Madiun,Jawa Timur,2020,6,1,1
+Teknik Sipil,Liwa,Lampung,2020,6,1,1
+Teknik Sipil,Gianyar,Bali,2020,6,1,1
+Teknik Sipil,Kota Agung,Lampung,2020,6,1,1
+Teknik Sipil,Tobelo,Maluku Utara,2020,6,1,1
+Teknik Sipil,Atambua,Nusa Tenggara Timur,2020,6,1,1
+Teknik Sipil,Metro,Lampung,2020,6,1,1
+Teknik Sipil,Jayapura,Papua,2020,6,1,1
+Teknik Sipil,Lhokseumawe,Aceh,2020,6,1,1
+Teknik Sipil,Pematangsiantar,Sumatera Utara,2020,6,1,1
+Teknik Sipil,Bogor,Jawa Barat,2020,6,1,1
+Teknik Sipil,Banjarbaru,Kalimantan Selatan,2020,6,1,1
